@@ -1,1 +1,2 @@
-# VBA-InboxStatusControl
+# Outlook / VBA / InboxStatusControl
+## Beschreibung
